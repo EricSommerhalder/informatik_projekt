@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iterator>
 #include <cstring>
+#include "../hog2/apps/delta/Driver.cpp"
+
 using namespace std;
 /**
  * Returns the neighbours of a game state.

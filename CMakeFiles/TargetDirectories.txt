@@ -1,0 +1,3 @@
+/mnt/c/users/erics/informatik_projekt/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/erics/informatik_projekt/CMakeFiles/edit_cache.dir
+/mnt/c/users/erics/informatik_projekt/CMakeFiles/informatik_projekt.dir

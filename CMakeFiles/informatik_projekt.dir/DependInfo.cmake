@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/erics/informatik_projekt/main.cpp" "C:/Users/erics/informatik_projekt/cmake-build-default-mingw/CMakeFiles/informatik_projekt.dir/main.cpp.obj"
+  "/mnt/c/users/erics/informatik_projekt/main.cpp" "/mnt/c/users/erics/informatik_projekt/CMakeFiles/informatik_projekt.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../../hog2"
+  "../hog2"
   )
 
 # Targets to which this target links.
